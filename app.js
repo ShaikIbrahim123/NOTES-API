@@ -5,4 +5,4 @@ function addNote(note) {
     console.log("Note added:", note);
 }
 
-addNote(" Welcome to basic of -> Learn Git");
+addNote(" Welcome To Start Of Basic GitHub");
